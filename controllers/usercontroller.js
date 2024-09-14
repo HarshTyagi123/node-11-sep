@@ -18,6 +18,8 @@ function getUser(req,res){
     }
 }
 
+
+
 module.exports = {
     getAllUsers,
     getUser
